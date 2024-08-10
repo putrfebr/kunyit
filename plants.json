@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Kunyit",
+        "scientificName": "Curcuma longa",
+        "image": "img/kunyit.jpg",
+        "otherNames": "Turmeric, kunir (Jawa)",
+        "benefits": [
+            "Kunyit memiliki sifat anti-inflamasi dan antioksidan. Dapat digunakan untuk meningkatkan sistem kekebalan tubuh, mengobati gangguan pencernaan, dan menjaga kesehatan kulit."
+
+        ],
+        "uses": [
+            "Kunyit sering digunakan sebagai bumbu dalam masakan seperti gulai, kari, atau nasi kuning. Selain itu, kunyit juga digunakan dalam ramuan jamu tradisional untuk kesehatan."
+        ]
+    }
+]
